@@ -37,7 +37,7 @@ This Python script generates a customizable QR code with high error correction a
 2. **Run the script**:
 
    ```bash
-   python generate_qr_code.py
+   python main.py
    ```
 
 3. The script will generate the QR code and save it to the specified output file. If a logo is included, it will be centered in the QR code with the appropriate size.
